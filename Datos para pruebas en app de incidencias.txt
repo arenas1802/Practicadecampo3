@@ -1,0 +1,14 @@
+Usuario Administrador
+
+correo: daniel@darenas.me
+contraseña: prueba
+
+Usuario Consultor
+
+correo: consultor@darenas.me
+contraseña: prueba
+
+Usuario Cliente
+
+correo: cliente@erp.com
+contraseña: clave123
